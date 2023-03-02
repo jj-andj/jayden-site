@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Jayden Jung"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - portfolio.qmd
+      - href: jaydenjung_resume.pdf
+        text: CV
+
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
+
+editor: visual
+

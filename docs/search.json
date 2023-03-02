@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jayden’s Website",
+    "section": "",
+    "text": "Welcome to my website. I’m Jayden, a Bachelor of Information at the University of Toronto."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Some data science projects that I’ve completed include:\n\nAnalysis on Toronto Major Crime Indicator Data, which uses data from OpenDataToronto and analyzes the trends through secondary sources about relevant current events.\nEffects of Mate Competition on Hate Crimes, where I reproduced visualizations of data from Rafaela Dancygier, Naoki Egami, Amaney Jamal, and Ramona Rischke’s paper, Hate Crimes and Gender Imbalances: Fears over Mate Competition and Violence against Refugees"
+  }
+]

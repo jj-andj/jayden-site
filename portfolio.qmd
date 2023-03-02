@@ -1,0 +1,9 @@
+---
+title: "Portfolio"
+---
+
+Some data science projects that I've completed include:
+
+- [Analysis on Toronto Major Crime Indicator Data](https://github.com/jj-andj/analysis-toronto-mci), which uses data from OpenDataToronto and analyzes the trends through secondary sources about relevant current events.
+
+- [Effects of Mate Competition on Hate Crimes](https://github.com/jj-andj/mate-comp-hate), where I reproduced visualizations of data from Rafaela Dancygier, Naoki Egami, Amaney Jamal, and Ramona Rischke's paper, [Hate Crimes and Gender Imbalances: Fears over Mate Competition and Violence against Refugees](https://doi.org/10.1111/ajps.12595)
