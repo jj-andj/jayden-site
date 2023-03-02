@@ -2,4 +2,4 @@
 title: "Jayden's Website"
 ---
 
-Welcome to my website. I'm Jayden, a Bachelor of Information at the University of Toronto.
+Welcome to my website. I'm Jayden, a Bachelor of Information student at the University of Toronto. I am an emerging data scientist.
